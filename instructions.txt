@@ -1,0 +1,21 @@
+install all the required libraries for the clent folder and server folders 
+note: check for the node_moules to verrify the installed modules 
+
+for the client folder:
+-> cd client 
+-> npm start 
+     ->pip install npm(node package manager) 
+
+for the server folder:
+->cd server 
+-> pip i nodemon 
+-> nodemon app.js
+or
+->nodemon start dev 
+
+make sure that database connectivity is okay
+
+## Done by:
+Bolgum Hemanth Goud 
+222010301016
+project: oneshotai project
